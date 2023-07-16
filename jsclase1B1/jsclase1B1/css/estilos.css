@@ -1,0 +1,49 @@
+body {
+      font-family: Arial, sans-serif, ;
+      background-color: #d8f8f4;
+      margin: 0;
+      padding: 20px; 
+      background-image: url(https://i.pinimg.com/originals/bb/bf/6d/bbbf6dc11ad77721dbefc77a6b9eee7d.gif);
+      
+ }
+  h1{
+      color: #060101;
+      text-align: center;
+      background-color: #11aac5c5;
+      border-radius: 15px;
+} 
+ h6 {
+      color: #030000;
+      text-align: center;
+} 
+
+ .container{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     gap: 5px;
+     flex-wrap: wrap;
+     max-width: 800px;
+     margin: 10px auto;
+     background-color: #2bbbdfba;
+     border-radius: 10px;
+     padding: 20px;
+     box-shadow: 0 1px 10px rgba(255, 255, 255, 0.5);
+     font-size: 32px;
+} 
+
+ .boton {
+      display: inline-block;
+      padding: 7px 20px;
+      background-color: #07596dd8;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 15px;
+      transition: all 0.9s ease-in-out;
+      
+} 
+ .boton:hover {
+      background-color: #01b8c5b5;
+      padding: 10px 20px;
+} 
+    
